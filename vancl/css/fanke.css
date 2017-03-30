@@ -1,0 +1,503 @@
+@import url(base.css);
+
+.heardertop{
+	height:32px;
+	width:100%;
+	background:#F7F7F7;
+}
+
+.topbox{
+	height:32px;
+	width:1200px;
+	margin:0 auto;
+}
+
+.top-left{
+	height:32px;
+	background:#F7F7F7;
+	font-size:12px;
+	line-height:32px;
+	font-family:"宋体";
+	float:left;
+}
+
+/*您好，欢迎光临凡客诚品！*/
+.top-left .top1{
+	color:#808080;
+}
+
+/*|*/
+.top-left .top2{
+	color:#808080;
+}
+
+/*登录 注册*/
+.top-left .toplj{
+	color:#808080;
+	text-decoration:none;
+}
+
+/*我的订单 收藏本站*/
+.top-left .toplj2{
+	color:#808080;
+	text-decoration:none;
+}
+.top-left .toplj2:hover{
+	color:#B81C22;
+}
+
+/*双十二退换货说明*/
+.top-left .toplj3{
+	color:#B81C22;
+	text-decoration:none;
+}
+
+/*上右*/
+.top-right{
+	height:32px;
+	width:515px;
+	background:#F7F7F7;
+	font-size:12px;
+	line-height:32px;
+	font-family:"宋体";
+	float:right;
+}
+
+/*我的凡客 帮助中心 网站公告*/
+.top-right .toplj4{
+	width:65px;
+	color:#808080;
+	text-decoration:none;
+	margin-right:13px;
+}
+
+.toplj4 img{
+	height:16px;
+	margin-top:3px;
+}
+
+.top-right .toplj4:hover{
+	color:#B81C22;
+}
+
+/*手机凡客  在线客服*/
+.top-right .toplj5{
+	color:#808080;
+	text-decoration:none;
+	margin-right:13px;
+}
+.top-right .toplj5:hover{
+	color:#B81C22;
+}
+.toplj5 img{
+	margin-left:2px;
+}
+
+/*微信微博图标*/
+.toplj2w{
+	float:right;
+}
+
+.toplj2w img{
+	margin-top:6px;
+	margin-left:2px;
+}
+
+/*白 灰 线*/
+.white{
+	border:0;
+	border-top:1px solid #fff; 
+}
+.glay{
+	border:0;
+	border-top:1px solid #ccc; 
+}
+
+/*头下的红色*/
+.xnth2016{
+	width:100%;
+	height:53px;
+	background:#CB2E37;
+}
+
+.xnth{
+	width:1200px;
+	display:block;
+	margin:0 auto;
+}
+
+/*导航*/
+.leaderbox{
+	width:1200px;
+	height:62px;
+	margin:20px auto 10px;
+}
+.fanke{
+	width:166px;
+	height:47px;
+	margin-left:33px;
+	float:left;
+	background-image:url(../img/vanclbg.png);
+	background-position:0 -58px;
+}
+.fklink{
+	display:block;
+}
+
+/*头部下的红色*/
+.2016xnth{
+	width:1200px;
+	height:
+}
+
+/*search*/
+.searchbox{
+	width:558px;
+	height:52px;
+	padding-top:8px;
+	float:right;
+}
+
+.text{
+	width:379px;
+	height:27px;
+	border:1px solid #C9CACA;
+	padding:0 5px;
+	font-size:12px;
+}
+.buttonone{
+	width:49px;
+	height:29px;
+	background:#B71C22;
+	border:1px #C9CACA solid;
+	font-size:12px;
+	color:white;
+}
+
+.buttontwo{
+	width:107px;
+	height:29px;
+	background:#B71C22;
+	border:1px #C9CACA solid;
+	font-size:12px;
+	color:white;
+}
+
+.remenss{
+	width:440px;
+	height:18px;
+	margin-top:5px;
+	color:#727171;
+	font-size:12px;	
+	text-align:center;
+}
+.shoes{
+	text-decoration:none;
+	color:#727171;
+}
+
+/*导导航*/
+.leadtwo{
+	width:1200px;
+	height:49px;
+	margin:0 auto;
+}
+
+.button2{
+	width:260px;
+	height:49px;
+	background:#B81C22;
+	border:0;
+	color:#fff;
+	float:left;
+	font-size:16px;
+}
+.button1{
+	width:117.5px;
+	height:49px;
+	background:#EFEFEF;
+	border:0;
+	color:#727171;
+	float:left;
+	margin:0 auto;
+	font-size:16px;
+}
+.button1:hover{
+	background:#E5E6E6;
+	color:#B81C22;
+}
+
+/*banner 二级导航*/
+.bannerbox{
+	width:1200px;
+	height:494px;
+	margin:0 auto;
+}
+.banner-left{
+	float:left;
+}
+
+.erjileader-nan{
+	width:260px;
+	height:258px;
+	margin-top:17px;
+	border:1px solid #c9c9c8;
+	border-bottom:0;
+}
+.erjileader-nv{
+	width:260px;
+	height:134px;
+	margin-top:17px;
+	border:1px solid #c9c9c8;
+	border-bottom:0;
+}
+.erjileader-shoes{
+	width:260px;
+	height:46px;
+	margin-top:17px;
+	border:1px solid #c9c9c8;
+	border-bottom:0;
+}
+
+.tuchu{
+	width:33px;
+	height:20px;
+	margin-left:37px;
+	background:#fff;
+	margin-top:-10px;
+}
+.tuchu2{
+	width:125px;
+	height:20px;
+	margin-left:37px;
+	background:#fff;
+	margin-top:-10px;
+}
+
+.erjidh{
+	text-decoration:none;
+	color:#B81C22;
+	font-size:14px;
+	padding-left:2px;
+}
+
+.erjidaopian1{
+	width:260px;
+	height:26px;
+}
+
+.erjidaopian2{
+	width:260px;
+	height:35px;
+	border-bottom:1px solid #C9C9C8;
+
+}
+
+.ejlj1{
+	text-decoration:none;
+	color:#A3A2A2;
+	font-size:13px;
+	padding:0 0 0 37px;
+	line-height:30px;
+}
+.ejlj2{
+	text-decoration:none;
+	color:#B81C22;
+	font-size:12px;
+	padding:5px 0 10px 37px;
+}
+.ejlj3{
+	text-decoration:none;
+	color:#727171;
+	font-size:12px;
+	padding:5px 5px 0 10px;
+}
+.ejlj3:hover{
+	height:20px;
+	background:#EDEEEE;
+	color:#B81C22;
+}
+
+/*中*/
+.banner-center{
+	width:710px;
+	height:476px;
+	float:left;
+	margin-left:10px;
+	margin-top:17px;
+}
+
+
+/*banner-右*/
+.banner-right{
+	width:210px;
+	margin-top:17px;
+	float:right;
+}
+
+.banner-right1{
+	width:208px;
+	height:237px;
+	border:1px solid #C9C9C9;
+}
+.banner-right1 img{
+	width:208px;
+	height:237px;
+}
+.banner-right2{
+	width:208px;
+	height:236px;
+	border:1px solid #C9C9C9;
+	border-top:0;
+}
+.banner-right2 img{
+	width:208px;
+	height:236px;
+}
+
+
+/*衣服列表*/
+/*当季推荐*/
+.dangjituijian{
+	width:1165px;
+	height:40px;
+	padding-left:35;
+	font-size:16;
+	font-weight:bold;
+	color:#595757;
+	line-height:40px;
+	margin:auto;
+	margin-top:20px;
+}
+
+.yflb .pic-one{
+	width:1200px;
+	height:235px;
+	margin:auto;
+	margin-bottom:10px;
+}
+
+.yflb .pic-one a{
+	float:left;
+}
+.picture{
+	margin-right:10px;
+}
+
+
+/*快到底部*/
+.blank1{
+	height:25;
+}
+.near-bottom{
+	width:1198px;
+	height:160px;
+	padding-top:28px;
+	border:1px solid #E0E0E1;
+	margin:0 auto;
+}
+.near-b1{
+	width:127px;
+	height:138px;
+	padding-left:70px;
+	border-right:1px solid #E0E0E1;
+	float:left;
+}
+.b12{
+	font-size:12px;
+	color:#333333;
+	margin-bottom:12px;
+}
+.near-bl1{
+	font-size:11px;
+	color:#333333;
+	display:block;
+	height:20px;
+	line-height:20px;
+	text-decoration:none;
+}
+.near-bl1:hover{
+	color:#A10000;
+}
+
+.near-bottom2{
+	width:1200px;
+	height:52px;
+	margin:15px auto;
+}
+.near-bottom2 .nearb-lj{
+	width:300px;
+	height:52px;
+	text-align:center;
+	line-height:52px;
+	float:left;
+	display:block;
+}
+
+.tuihuo{
+	width:134px;
+	height:31px;
+	margin-top:10px;
+	margin-left:82px;
+	background-image:url(../img/vanclbg.png);
+	background-position:0px -120px;
+}
+
+.yunfei{
+	width:170px;
+	height:31px;
+	margin-top:10px;
+	margin-left:65px;
+	background-image:url(../img/vanclbg.png);
+	background-position:0px -161px;
+}
+
+.shichuan{
+	width:161px;
+	height:31px;
+	margin-top:10px;
+	margin-left:70px;
+	background-image:url(../img/vanclbg.png);
+	background-position:0px -203px;
+}
+
+.kefu{
+	width:172px;
+	height:31px;
+	margin-top:10px;
+	margin-left:64px;
+	background-image:url(../img/vanclbg.png);
+	background-position:0px -244px;
+}
+
+/*黑线*/
+.black-line{
+	border-top:1px #3E3A39 solid;
+}
+
+/*最底部*/
+
+.footBottomTab{
+	width:1200px;
+	height:33px;
+	margin:0 auto;
+}
+.footBottomTab div{
+	font-size:12px;
+	line-height:33px;
+	text-align:center;
+}
+
+.blank-2{
+	height:20px;
+}
+
+.bottom-logo{
+	height:49px;
+	width:980px;
+	margin:0 auto;
+	margin-bottom:25px;
+}
+.bottom-logo #btp{
+	margin-left:97.5px;
+}
